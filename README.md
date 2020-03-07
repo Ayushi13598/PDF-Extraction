@@ -1,5 +1,5 @@
 # PDF-Extraction
 
 packages to be installed in your system:
-pip install pdfminer
-pip install pdfminer.six
+1. pip install pdfminer
+2. pip install pdfminer.six
